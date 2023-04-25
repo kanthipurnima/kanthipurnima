@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanthipurnima
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on best MNC
+- 💞️ I’m looking to collaborate in best MNC's
 - 📫 How to reach me kanthipurnima2004@gmail.com
 
 <!---
