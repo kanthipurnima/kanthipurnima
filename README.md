@@ -1,4 +1,4 @@
-HEY EVERYONE! [MYSELF PURNIMA] (https://github.com/kanthipurnima/kanthipurnima.git) <img scr =""C:\Users\Aanne\Downloads\200w.gif"" , width = "25px" >
+HEY EVERYONE! [MYSELF PURNIMA] (https://github.com/kanthipurnima/kanthipurnima.git) 
  <br><br>
 
 - 👋 Hi, I’m @kanthipurnima
