@@ -1,4 +1,4 @@
-HEY EVERYONE! [MYSELF PURNIMA](https://github.com/kanthipurnima/kanthipurnima.git) 
+HEY EVERYONE! [MYSELF PURNIMA](https://github.com/kanthipurnima/kanthipurnima.git) <img src =" https://media.tenor.com/mhLPO2VldCkAAAAM/0001.gif">
  <br><br>
 
 - 👋 Hi, I’m @kanthipurnima
