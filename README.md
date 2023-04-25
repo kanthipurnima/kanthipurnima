@@ -1,3 +1,6 @@
+HEY EVERYONE ! MYSELF [KANTHIPURNIMA] <img scr=""C:\Users\Aanne\Downloads\hi.github.jpeg" width="25px"
+<br><br>
+
 - 👋 Hi, I’m @kanthipurnima
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
