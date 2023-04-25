@@ -1,5 +1,5 @@
-HEY EVERYONE ! MYSELF [KANTHIPURNIMA] <img scr=""C:\Users\Aanne\Downloads\hi.github.jpeg" width="25px"
-<br><br>
+HEY EVERYONE! MYSELF PURNIMA <img scr ="https://i.pinimg.com/originals/f9/13/46/f9134655b53cbeaeb00664b04371b9b0.png"
+ <br><br>
 
 - 👋 Hi, I’m @kanthipurnima
 - 👀 I’m interested in web development
