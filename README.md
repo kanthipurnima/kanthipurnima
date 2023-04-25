@@ -1,4 +1,4 @@
-HEY EVERYONE! [MYSELF PURNIMA](https://github.com/kanthipurnima/kanthipurnima.git) <img scr ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fwaving-hello-funny&psig=AOvVaw35_zk9iv4AWNHooEbBUgZS&ust=1682526029232000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjck5-5xf4CFQAAAAAdAAAAABAI"
+HEY EVERYONE! [MYSELF PURNIMA] (https://github.com/kanthipurnima/kanthipurnima.git) <img scr ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fkiong-hi&psig=AOvVaw3e3dNKnE0_P7QrSM9zR9w5&ust=1682528113574000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDFq-i_xf4CFQAAAAAdAAAAABAI" , width = "25px" >
  <br><br>
 
 - 👋 Hi, I’m @kanthipurnima
