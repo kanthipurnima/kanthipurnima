@@ -11,7 +11,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate in best MNC's
-- 📫 How to reach me kanthipurnima2004@gmail.com
+- 📫 How to reach me purnimakadimpalli@gmail.com
 
 <br><br>
 <h3><b><samp>Skills and Languages</samp></b></h3>
