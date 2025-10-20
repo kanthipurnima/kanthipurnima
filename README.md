@@ -16,19 +16,22 @@
 <br><br>
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+ ![ML](https://img.shields.io/badge/ML-3776AB?style=flat-square&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-![ML](https://img.shields.io/badge/ML-3776AB?style=flat-square&logoColor=white)
+
 
 
 <span>
  <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
  <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
+ <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
  <img src="https://cdn.vectorstock.com/i/2000v/47/52/ai-machine-learning-logo-vector-19204752.avif" alt="drawing" width="50"/>
 </span>
 <!---
