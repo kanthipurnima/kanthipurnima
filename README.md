@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m @kanthipurnima
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate in best MNC's
 - 📫 How to reach me purnimakadimpalli@gmail.com
 
