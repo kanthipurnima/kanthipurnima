@@ -28,6 +28,7 @@
  <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
  <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
+ <img src="https://cdn.vectorstock.com/i/2000v/47/52/ai-machine-learning-logo-vector-19204752.avif" alt="drawing" width="50"/>
 </span>
 <!---
 kanthipurnima/kanthipurnima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
