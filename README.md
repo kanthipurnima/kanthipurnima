@@ -22,7 +22,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-![Machine Learning]
+![Machine Learning](https://cdn.vectorstock.com/i/2000v/47/52/ai-machine-learning-logo-vector-19204752.avif)
 
 <span>
  <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
